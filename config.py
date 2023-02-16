@@ -1,11 +1,11 @@
 # Bot token issued by @botfather (Telegram)
-token = 'xxxxxxxx:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+token = '6286557453:AAHAZKykaBrII5-GsPK6Pkl23FCCPAHuWK4'
 
 # Path to the folder where new notes should be created
-inbox_path = r'C:\your-obsidian-vault'
+inbox_path = r'K:\Obsidian-AvalonW\AvalonW'
 
 # Path to the folder where received pictures should be stored
-photo_path = r'C:\your-obsidian-vault\attachments'
+photo_path = r'K:\Obsidian-AvalonW\AvalonW\Files\Tlg'
 
 # If True, messages (including picture captions) will retain formatting (bold, italic, links, etc.)
 # If False, messages will be saved as plain text. This also removes inline links.
